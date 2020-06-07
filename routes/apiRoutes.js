@@ -2,6 +2,7 @@ const db = require("../models");
 const express = require("express");
 const router = express.Router();
 
+// find
 router.get("/api/workouts", (req, res) => {
     db.Workout.find({})
     .then((workout) => {
@@ -12,6 +13,7 @@ router.get("/api/workouts", (req, res) => {
     });
 });
 
+// create
 router.post("/api/workouts", (req, res) => {
     db.Workout.create(req.body)
     .then((workout) => {
@@ -33,7 +35,7 @@ router.put("/api/workouts/:id", (req, res) => {
     });
 });
 
-
+// find
 router.get("/api/workouts/range", (req, res) => {
     db.Workout.find({})
     .then((workouts) => {
