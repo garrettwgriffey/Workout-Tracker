@@ -4,9 +4,6 @@
 
   <img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/59263270?">
 
-  
-# **Project** 
-
 ## Live Link 
 *https://workout-tracks.herokuapp.com/
 
