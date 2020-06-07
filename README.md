@@ -2,7 +2,11 @@
 
   <img align="left" src= "https://img.shields.io/badge/License-MIT-green">
 
+  <br>
+
   <img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/59263270?">
+
+  <br>
 
 ## Live Link 
 *https://workout-tracks.herokuapp.com/
