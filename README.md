@@ -1,10 +1,14 @@
 # Workout-Tracker
 
   <img align="left" src= "https://img.shields.io/badge/License-MIT-green">
+  
+  <br>
 
   <br>
 
   <img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/59263270?">
+  
+  <br>
 
   <br>
 
