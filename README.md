@@ -6,7 +6,6 @@
 
   
 # **Project** 
-Workout Tracker
 
 ## Live Link 
 *https://workout-tracks.herokuapp.com/
@@ -26,7 +25,7 @@ Allows user to track their workout activity.
 HTML, CSS, JavaScript, jQuery, Node.Js, Node Express, MongooseDb
 
 ## **Installation**
-JSON packages included. Just run npm i
+JSON packages included. Run `npm i` in the command-line.
 
 ## **Contributors**
 Garrett Wells Griffey
