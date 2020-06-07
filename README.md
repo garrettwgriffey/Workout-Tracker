@@ -23,11 +23,10 @@ Allows user to track their workout activity.
 <img src = assets\workoutTrackerSS.jpg>
 
 ## **Technology Stack**
-Node.Js, JavaScript, GitHub, APIs, Heroku, MongoDB
-## **Usage**
+HTML, CSS, JavaScript, jQuery, Node.Js, Node Express, MongooseDb
 
-<!-- <img src = "assets\readMeGen.gif">  -->
-
+## **Installation**
+JSON packages included. Just run npm i
 
 ## **Contributors**
 Garrett Wells Griffey
@@ -42,4 +41,4 @@ Garrett Wells Griffey
 
 
 ## Tests
-###### To Run Tests, Run the Following Command: npm run test
+###### To Run Tests, Run the Following Command: N/A
